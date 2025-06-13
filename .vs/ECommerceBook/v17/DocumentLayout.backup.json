@@ -1,0 +1,951 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.api\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|solutionrelative:ecommercebook.api\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|solutionrelative:ecommercebook.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|solutionrelative:ecommercebook.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|solutionrelative:ecommercebook.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AswinKelappan\\.nuget\\packages\\epplus\\6.2.5\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AswinKelappan\\.nuget\\packages\\epplus\\8.0.3\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\entities\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\entities\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|solutionrelative:ecommercebook.api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.application\\command\\_author\\authorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|solutionrelative:ecommercebook.application\\command\\_author\\authorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.application\\command\\_author\\authorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|solutionrelative:ecommercebook.application\\command\\_author\\authorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.api\\ecommercebook.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|solutionrelative:ecommercebook.api\\ecommercebook.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|solutionrelative:ecommercebook.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.application\\command\\_book\\bookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|solutionrelative:ecommercebook.application\\command\\_book\\bookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\dto\\book2dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\dto\\book2dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.application\\command\\_order\\ordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|solutionrelative:ecommercebook.application\\command\\_order\\ordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.application\\command\\_book\\bookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|solutionrelative:ecommercebook.application\\command\\_book\\bookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\dto\\order2dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\dto\\order2dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\enum\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\enum\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.infrastructure\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|solutionrelative:ecommercebook.infrastructure\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.application\\command\\_order\\ordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|solutionrelative:ecommercebook.application\\command\\_order\\ordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|solutionrelative:ecommercebook.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|solutionrelative:ecommercebook.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|solutionrelative:ecommercebook.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.application\\ecommercebook.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|solutionrelative:ecommercebook.application\\ecommercebook.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.api\\ecommercebook.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|solutionrelative:ecommercebook.api\\ecommercebook.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE1AF34-6246-4397-A141-5599EDFC4EA6}|ECommerceBook.API\\ECommerceBook.API.csproj|solutionrelative:ecommercebook.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.application\\command\\_user\\usercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|solutionrelative:ecommercebook.application\\command\\_user\\usercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.application\\command\\_publisher\\publishercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|solutionrelative:ecommercebook.application\\command\\_publisher\\publishercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.infrastructure\\queries\\getuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|solutionrelative:ecommercebook.infrastructure\\queries\\getuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.infrastructure\\queries\\getpublisherquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|solutionrelative:ecommercebook.infrastructure\\queries\\getpublisherquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.infrastructure\\queries\\getorderquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|solutionrelative:ecommercebook.infrastructure\\queries\\getorderquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.infrastructure\\queries\\getbookquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|solutionrelative:ecommercebook.infrastructure\\queries\\getbookquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.infrastructure\\queries\\getauthorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|solutionrelative:ecommercebook.infrastructure\\queries\\getauthorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.infrastructure\\ecommercebook.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|solutionrelative:ecommercebook.infrastructure\\ecommercebook.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\interface\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\interface\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\interface\\igetuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\interface\\igetuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\interface\\igetpublisherquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\interface\\igetpublisherquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\interface\\igetorderquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\interface\\igetorderquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\interface\\igetbookquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\interface\\igetbookquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\interface\\igetauthorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\interface\\igetauthorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\ecommercebook.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\ecommercebook.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.application\\comman\\mapping\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|solutionrelative:ecommercebook.application\\comman\\mapping\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.infrastructure\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|solutionrelative:ecommercebook.infrastructure\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.application\\command\\_user\\usercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|solutionrelative:ecommercebook.application\\command\\_user\\usercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.application\\command\\_publisher\\publishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFB98F7-6776-4E10-81BF-B362A00ACEDC}|ECommerceBook.Application\\ECommerceBook.Application.csproj|solutionrelative:ecommercebook.application\\command\\_publisher\\publishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\dto\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\dto\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\dto\\user2dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\dto\\user2dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\dto\\publisher2dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\dto\\publisher2dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\dto\\author2dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\dto\\author2dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.domain\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F5E9E8-5614-4164-98AD-B34D63613D8D}|ECommerceBook.Domain\\ECommerceBook.Domain.csproj|solutionrelative:ecommercebook.domain\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|c:\\users\\aswinkelappan\\source\\repos\\ecommercebook\\ecommercebook.infrastructure\\migrations\\20250512062554_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28173CA-3904-4D4C-A4EC-442F4FA1B2A3}|ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj|solutionrelative:ecommercebook.infrastructure\\migrations\\20250512062554_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:12:33.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Entities\\Publisher.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Entities\\Publisher.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Entities\\Publisher.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Entities\\Publisher.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:13:43.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:12:59.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.API\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "ECommerceBook.API\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv1MAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:42:51.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ECommerceBook.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA6wGEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:43:28.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ECommerceBook.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:42:34.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublisherController.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\Controllers\\PublisherController.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.API\\Controllers\\PublisherController.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\Controllers\\PublisherController.cs",
+              "RelativeToolTip": "ECommerceBook.API\\Controllers\\PublisherController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:43:07.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.API\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "ECommerceBook.API\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:04:43.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Entities\\Author.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:11:28.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:11:59.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\.nuget\\packages\\epplus\\8.0.3\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\8.0.3\\readme.txt",
+              "ToolTip": "C:\\Users\\AswinKelappan\\.nuget\\packages\\epplus\\8.0.3\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\8.0.3\\readme.txt",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-12T09:50:26.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\.nuget\\packages\\epplus\\6.2.5\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\6.2.5\\readme.txt",
+              "ToolTip": "C:\\Users\\AswinKelappan\\.nuget\\packages\\epplus\\6.2.5\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\6.2.5\\readme.txt",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-12T09:54:42.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthorCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Author\\AuthorCommandHandler.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Application\\Command\\_Author\\AuthorCommandHandler.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Author\\AuthorCommandHandler.cs",
+              "RelativeToolTip": "ECommerceBook.Application\\Command\\_Author\\AuthorCommandHandler.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:47:11.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Author\\AuthorCommand.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Application\\Command\\_Author\\AuthorCommand.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Author\\AuthorCommand.cs",
+              "RelativeToolTip": "ECommerceBook.Application\\Command\\_Author\\AuthorCommand.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:43:50.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Book\\BookCommandHandler.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Application\\Command\\_Book\\BookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Book\\BookCommandHandler.cs",
+              "RelativeToolTip": "ECommerceBook.Application\\Command\\_Book\\BookCommandHandler.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:57:17.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ECommerceBook.API.csproj",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\ECommerceBook.API.csproj",
+              "RelativeDocumentMoniker": "ECommerceBook.API\\ECommerceBook.API.csproj",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\ECommerceBook.API.csproj",
+              "RelativeToolTip": "ECommerceBook.API\\ECommerceBook.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T09:07:40.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\OrderDto.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Dto\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\OrderDto.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Dto\\OrderDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:39:17.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book2Dto.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\Book2Dto.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Dto\\Book2Dto.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\Book2Dto.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Dto\\Book2Dto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:55:14.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\BookDto.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Dto\\BookDto.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\BookDto.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Dto\\BookDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:54:31.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250512062554_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\Migrations\\20250512062554_Initial.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Infrastructure\\Migrations\\20250512062554_Initial.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\Migrations\\20250512062554_Initial.cs",
+              "RelativeToolTip": "ECommerceBook.Infrastructure\\Migrations\\20250512062554_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:25:54.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Order\\OrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Application\\Command\\_Order\\OrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Order\\OrderCommandHandler.cs",
+              "RelativeToolTip": "ECommerceBook.Application\\Command\\_Order\\OrderCommandHandler.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwCgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:32:03.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceBook.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\appsettings.json",
+              "RelativeToolTip": "ECommerceBook.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T09:28:51.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Book\\BookCommand.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Application\\Command\\_Book\\BookCommand.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Book\\BookCommand.cs",
+              "RelativeToolTip": "ECommerceBook.Application\\Command\\_Book\\BookCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:57:04.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order2Dto.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\Order2Dto.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Dto\\Order2Dto.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\Order2Dto.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Dto\\Order2Dto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:40:11.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Enum\\Operation.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Enum\\Operation.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Enum\\Operation.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Enum\\Operation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:14:41.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Infrastructure\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\BaseRepository.cs",
+              "RelativeToolTip": "ECommerceBook.Infrastructure\\BaseRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:22:52.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.API\\Program.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\Program.cs",
+              "RelativeToolTip": "ECommerceBook.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:33:11.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Application\\ConfigureServices.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\ConfigureServices.cs",
+              "RelativeToolTip": "ECommerceBook.Application\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:00:43.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Order\\OrderCommand.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Application\\Command\\_Order\\OrderCommand.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Order\\OrderCommand.cs",
+              "RelativeToolTip": "ECommerceBook.Application\\Command\\_Order\\OrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:31:46.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Infrastructure\\ConfigureServices.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\ConfigureServices.cs",
+              "RelativeToolTip": "ECommerceBook.Infrastructure\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:24:17.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ECommerceBook.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\ECommerceBook.Application.csproj",
+              "RelativeDocumentMoniker": "ECommerceBook.Application\\ECommerceBook.Application.csproj",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\ECommerceBook.Application.csproj",
+              "RelativeToolTip": "ECommerceBook.Application\\ECommerceBook.Application.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T10:42:18.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ECommerceBook.API.http",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\ECommerceBook.API.http",
+              "RelativeDocumentMoniker": "ECommerceBook.API\\ECommerceBook.API.http",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\ECommerceBook.API.http",
+              "RelativeToolTip": "ECommerceBook.API\\ECommerceBook.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-12T05:47:10.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.API\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.API\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "ECommerceBook.API\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:03:55.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PublisherCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Publisher\\PublisherCommandHandler.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Application\\Command\\_Publisher\\PublisherCommandHandler.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Publisher\\PublisherCommandHandler.cs",
+              "RelativeToolTip": "ECommerceBook.Application\\Command\\_Publisher\\PublisherCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:32:45.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_User\\UserCommandHandler.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Application\\Command\\_User\\UserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_User\\UserCommandHandler.cs",
+              "RelativeToolTip": "ECommerceBook.Application\\Command\\_User\\UserCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:33:22.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\Queries\\GetUserQuery.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Infrastructure\\Queries\\GetUserQuery.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\Queries\\GetUserQuery.cs",
+              "RelativeToolTip": "ECommerceBook.Infrastructure\\Queries\\GetUserQuery.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:35:17.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetPublisherQuery.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\Queries\\GetPublisherQuery.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Infrastructure\\Queries\\GetPublisherQuery.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\Queries\\GetPublisherQuery.cs",
+              "RelativeToolTip": "ECommerceBook.Infrastructure\\Queries\\GetPublisherQuery.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:35:52.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetOrderQuery.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\Queries\\GetOrderQuery.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Infrastructure\\Queries\\GetOrderQuery.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\Queries\\GetOrderQuery.cs",
+              "RelativeToolTip": "ECommerceBook.Infrastructure\\Queries\\GetOrderQuery.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:34:49.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetBookQuery.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\Queries\\GetBookQuery.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Infrastructure\\Queries\\GetBookQuery.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\Queries\\GetBookQuery.cs",
+              "RelativeToolTip": "ECommerceBook.Infrastructure\\Queries\\GetBookQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:34:18.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetAuthorQuery.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\Queries\\GetAuthorQuery.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Infrastructure\\Queries\\GetAuthorQuery.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\Queries\\GetAuthorQuery.cs",
+              "RelativeToolTip": "ECommerceBook.Infrastructure\\Queries\\GetAuthorQuery.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:33:12.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ECommerceBook.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj",
+              "RelativeToolTip": "ECommerceBook.Infrastructure\\ECommerceBook.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T09:16:36.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Interface\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Interface\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Interface\\IBaseRepository.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Interface\\IBaseRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:26:06.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IGetUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Interface\\IGetUserQuery.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Interface\\IGetUserQuery.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Interface\\IGetUserQuery.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Interface\\IGetUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:28:11.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IGetPublisherQuery.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Interface\\IGetPublisherQuery.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Interface\\IGetPublisherQuery.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Interface\\IGetPublisherQuery.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Interface\\IGetPublisherQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:28:48.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IGetOrderQuery.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Interface\\IGetOrderQuery.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Interface\\IGetOrderQuery.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Interface\\IGetOrderQuery.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Interface\\IGetOrderQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:28:32.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IGetBookQuery.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Interface\\IGetBookQuery.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Interface\\IGetBookQuery.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Interface\\IGetBookQuery.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Interface\\IGetBookQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:27:56.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IGetAuthorQuery.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Interface\\IGetAuthorQuery.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Interface\\IGetAuthorQuery.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Interface\\IGetAuthorQuery.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Interface\\IGetAuthorQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:27:04.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ECommerceBook.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\ECommerceBook.Domain.csproj",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\ECommerceBook.Domain.csproj",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\ECommerceBook.Domain.csproj",
+              "RelativeToolTip": "ECommerceBook.Domain\\ECommerceBook.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T09:10:10.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AutoMapping.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Comman\\Mapping\\AutoMapping.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Application\\Comman\\Mapping\\AutoMapping.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Comman\\Mapping\\AutoMapping.cs",
+              "RelativeToolTip": "ECommerceBook.Application\\Comman\\Mapping\\AutoMapping.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:50:24.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ECommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "RelativeToolTip": "ECommerceBook.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:17:07.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_User\\UserCommand.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Application\\Command\\_User\\UserCommand.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_User\\UserCommand.cs",
+              "RelativeToolTip": "ECommerceBook.Application\\Command\\_User\\UserCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:33:04.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PublisherCommand.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Publisher\\PublisherCommand.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Application\\Command\\_Publisher\\PublisherCommand.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Application\\Command\\_Publisher\\PublisherCommand.cs",
+              "RelativeToolTip": "ECommerceBook.Application\\Command\\_Publisher\\PublisherCommand.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:32:17.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\UserDto.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBQwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:36:42.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PublisherDto.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\PublisherDto.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Dto\\PublisherDto.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\PublisherDto.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Dto\\PublisherDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:38:18.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Publisher2Dto.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\Publisher2Dto.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Dto\\Publisher2Dto.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\Publisher2Dto.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Dto\\Publisher2Dto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:38:42.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "User2Dto.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\User2Dto.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Dto\\User2Dto.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\User2Dto.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Dto\\User2Dto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:37:23.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Author2Dto.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\Author2Dto.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Dto\\Author2Dto.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\Author2Dto.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Dto\\Author2Dto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:36:00.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "ECommerceBook.Domain\\Dto\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\AswinKelappan\\source\\repos\\ECommerceBook\\ECommerceBook.Domain\\Dto\\AuthorDto.cs",
+              "RelativeToolTip": "ECommerceBook.Domain\\Dto\\AuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:35:13.973Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
