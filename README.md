@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ECommerceBook
 
->>>>>>> 9943b56ff3486399ecb7bc3b9cb5662efeddc6e2
+This is the README for the ECommerceBook project.
